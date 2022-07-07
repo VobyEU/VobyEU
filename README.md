@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @VobyEU
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-VobyEU/VobyEU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# VobyEU
+
+We are VobyEU - Voby is an WebDev Service!
+
+## Members
+
+- [@NicolasWebDeveloper](https://www.github.com/NicolasWebDeveloper)
+
